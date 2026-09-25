@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 283817194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a4f6caf6aa1aecb3a5aba5fd5e958a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 315399e84573776bbec4f2524817cc8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Husky.prefab
+Dependencies: []

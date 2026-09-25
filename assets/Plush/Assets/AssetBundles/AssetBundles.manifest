@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2277126760
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: plush
+      Dependencies: {}
